@@ -15,7 +15,8 @@ All data comes from [C-MAPSS Aircraft Engine Simulator Data](https://data.nasa.g
 Mainly referenced the preprocess methods from [umbertogriffo](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM) and [PHAM VAN VUNG](https://www.kaggle.com/code/phamvanvung/cmapss)
 
 ## Algorithms
-- Stacked Multiple Bidirectional LSTM layers to build the prediction model.
+-Use stratify sampling to ensure the model can all machines pattern.<br> 
+-Stacked Multiple Bidirectional LSTM layers to build the prediction model.
 
 
 
