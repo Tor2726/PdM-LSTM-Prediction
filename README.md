@@ -1,4 +1,4 @@
-# Predictive Maintenance(PdM) using Bidirectional-LSTM with Optuna
+# Predictive Maintenance(PdM) using Bidirectional-LSTM with Stratify Sampling
 ## Dataset Description
 
 Maintenance strategy can mainly be categorized into 3 strategies, Run-to-Failure (R2F), Preventive maintenance (PvM), and Predictive maintenance (PdM).
