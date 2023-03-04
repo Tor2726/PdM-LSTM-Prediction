@@ -18,6 +18,5 @@ Mainly referenced the preprocess methods from [umbertogriffo](https://github.com
 - Stacked Multiple Bidirectional LSTM layers with Attention layer to build the prediction model.
 - Utilized Optuna with TPESampler to **automatically optimize hyperparameters**, including Learning Rate, Number of Layers, Nodes, Dropout Rates,etc.
 
-## Code
-[Bi-LSTM Model with Optuna](https://github.com/Kev107034011/pdm-lstm-prediction/blob/main/Bi-LSTM%20Model%20with%20Optuna.ipynb)
+
 
