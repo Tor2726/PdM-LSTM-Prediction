@@ -1,4 +1,4 @@
-# Predictive Maintenance(PdM) using Bidirectional-LSTM with Stratify Sampling
+# Predictive Maintenance(PdM) using Bidirectional-LSTM with Stratified Sampling
 ## Dataset Description
 
 Maintenance strategy can mainly be categorized into 3 strategies, Run-to-Failure (R2F), Preventive maintenance (PvM), and Predictive maintenance (PdM).
@@ -15,7 +15,7 @@ All data comes from [C-MAPSS Aircraft Engine Simulator Data](https://data.nasa.g
 Mainly referenced the preprocess methods from [umbertogriffo](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM) and [PHAM VAN VUNG](https://www.kaggle.com/code/phamvanvung/cmapss)
 
 ## Algorithms
--Use stratify sampling to ensure the model can all machines pattern.<br> 
+-Use stratified sampling to ensure the model can all machines pattern.<br> 
 -Stacked Multiple Bidirectional LSTM layers to build the prediction model.
 
 
