@@ -3,9 +3,9 @@
 
 Maintenance strategy can mainly be categorized into 3 strategies, Run-to-Failure (R2F), Preventive maintenance (PvM), and Predictive maintenance (PdM).
 
-R2F: Only happens when equipment stops working
-PvM: Time-based maintenance/ Scheduled maintenance: periodically maintain usually based on time or process iteration
-PdM: Use predictive tools to determine when maintenance action needs to be taken
+R2F: Only happens when equipment stops working.
+PvM: Time-based maintenance/ Scheduled maintenance: periodically maintain usually based on time or process iteration.
+PdM: Use predictive tools to determine when maintenance action needs to be taken.
 
 The goal is to predict the Remaining Useful Life(RUL) of each type of machines.
 
